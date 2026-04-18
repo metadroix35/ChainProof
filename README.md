@@ -70,6 +70,7 @@ ChainProof is a decentralized platform that leverages blockchain technology to c
 
 ## 📁 Project Structure
 
+```
 ChainProof/
 ├── src/
 │   ├── app/
