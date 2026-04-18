@@ -1,7 +1,3 @@
-I'll explore the repository structure and code to create a detailed README for you.Now let me get the main package.json and explore the src directory:Now I have comprehensive information. Let me create a detailed README for the ChainProof project:
-
----
-
 # 📋 ChainProof - Comprehensive README
 
 ```markdown
