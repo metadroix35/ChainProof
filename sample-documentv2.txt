@@ -1,0 +1,7 @@
+This is a sample document created for testing the ChainProof Decentralized Platform.
+
+By uploading this specific document to the upload zone, its precise SHA-256 hash will be generated.
+Once the hash is recorded on the blockchain via the smart contract, attempting to upload this exact same file again will result in a warning, proving its immutable existence on the network.v2
+
+Document ID: SAMPLE-CHAINPROOF-001
+Timestamp: 2026-04-18
