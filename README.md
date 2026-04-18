@@ -1,6 +1,6 @@
 # 📋 ChainProof - Comprehensive README
 
-```markdown
+
 # ChainProof 🔐
 
 **Decentralized Proof & Verification Platform**
@@ -70,7 +70,6 @@ ChainProof is a decentralized platform that leverages blockchain technology to c
 
 ## 📁 Project Structure
 
-```
 ChainProof/
 ├── src/
 │   ├── app/
